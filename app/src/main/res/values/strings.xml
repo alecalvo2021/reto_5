@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">reto2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Constructor</string>
+    <string name="nav_header_subtitle">constructorapp.com.co</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_add">Agregar</string>
+    <string name="action_update">Actualizar</string>
+    <string name="action_delete">Eliminar</string>
+
+    <string name="menu_Home">Home</string>
+    <string name="menu_Productos">Productos</string>
+    <string name="menu_Tienda">Tienda</string>
+    <string name="menu_servicios">Servicios</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- texto de los list view -->
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_descripcion">Descripcion</string>
+    <string name="txt_valor">Valor</string>
+    <string name="txt_ubicacion">la ubicacion de los locales</string>
+    <string name="txt_horario">el horario de atencion al publico</string>
+    <string name="title_activity_form_maps">FormMapsActivity</string>
+    <string name="title_activity_show_maps">ShowMapsActivity</string>
+
+
+</resources>
